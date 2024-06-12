@@ -18,7 +18,7 @@
         <!-- Rounded rectangle card -->
         <div class="w-full h-9/10 mb-8 col-span-7 my-8">
             <div
-                class="flex flex-col items-center justify-center h-full mx-8 p-8 bg-white rounded-lg shadow-lg bg-[#3C2A21]"
+                class="flex flex-col items-center justify-center h-full mx-8 p-8 rounded-lg shadow-lg bg-[#3C2A21]"
             >
             <slot />
             </div>
