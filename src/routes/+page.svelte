@@ -1,5 +1,6 @@
 <script>
     import Profile from '$lib/components/Profile.svelte'
+    import { base } from '$app/paths'
 </script>
 
 <!-- Full height container -->
@@ -8,7 +9,7 @@
     <div class="flex items-center justify-center w-full p-8">
         <!-- Space them evenly, take up whole width -->
         <div class="flex items-center justify-evenly w-full text-neutral-400">
-            <a href="/aboutme" class="text-lg font-bold">AboutMe</a>
+            <a href={base + '/aboutme'} class="text-lg font-bold">AboutMe</a>
         </div>
     </div>
     <!-- Rounded rectangle card -->
