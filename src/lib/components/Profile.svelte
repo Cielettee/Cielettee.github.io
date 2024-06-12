@@ -1,5 +1,5 @@
 <script>
-    import profilepic from '$lib/assets/me.png'
+    import profilepic from '$lib/assets/pb.gif'
 </script>
 
 <img
