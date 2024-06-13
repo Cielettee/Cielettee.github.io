@@ -1,8 +1,8 @@
 <script>
-    import profilepic from '$lib/assets/pb.gif'
+    import profilepic from '$lib/assets/me.png'
 </script>
 
 <img
     src={profilepic}
-    class="w-32 h-32 rounded-full"
+    class="rounded-full h-32 w-32 p-1 bg-[#F2613F]"
 />
