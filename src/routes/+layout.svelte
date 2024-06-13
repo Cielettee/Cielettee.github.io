@@ -7,7 +7,7 @@
     import rain from '$lib/assets/rain.gif'
 </script>
 
-<div class="bg-[#0c0c0c] bg-[length:270px_920px] bg-no-repeat bg-[url('src/lib/assets/rain.gif')]">
+<div class="bg-[#0c0c0c] bg-[length:270px_920px] bg-no-repeat bg-[url('$lib/assets/rain.gif')]">
     <div class="grid grid-cols-1 md:grid-cols-8 grid-flow-row w-full h-screen h-full">
         <div class="flex justify-center items-center md:h-screen w-full">
             <!-- Space them evenly, take up whole width -->
