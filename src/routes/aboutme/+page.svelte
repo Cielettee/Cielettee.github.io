@@ -5,7 +5,7 @@
 </script>
 
 <div class="overflow-y-auto">
-   <div class="hidden 2xl:flex flex-row text-[#F2613F] invisible md:visible">
+   <div class="hidden lg:flex flex-row text-[#F2613F] invisible md:visible">
       <div>
          <img src={mefrirl} class="min-w-64 max-h-80 rounded-lg p-2 bg-[#F2613F]">
       </div>

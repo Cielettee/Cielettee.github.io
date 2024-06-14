@@ -1,3 +1,9 @@
+<head>
+   <title>
+      Tessalyn Becker - Resume!
+   </title>
+</head>
+
 <script>
    import { base } from '$app/paths'
 </script>
