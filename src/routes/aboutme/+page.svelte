@@ -28,6 +28,6 @@
       <p class="pt-5 font-mono text-[#F2613F] text-lg"> 
          I currently work full-time as a Tier 1 security analyst at a Managed Security Service Provider (MSSP) security operations center. I continually strive for new challenges and growth opportunities. I actively work on certifications and engage in red team training to pinpoint my ideal niche within the cybersecurity field. At this time, I am focusing on the Game of Active Directory and PortSwigger labs.</p>
       <p class="pt-5 font-mono text-[#F2613F] text-lg"> 
-         Feel free to reach out by emailing me at tlbecker08@gmail.com! <span class="invisible md:visible">(And yes, that's my adorable mouse Lily in the top right corner.)</span></p>
+         Feel free to reach out by emailing me at <a class="underline text-[#F2613F] hover:text-[#FF0000]" href=mailto:tlbecker08@gmail.com>tlbecker08@gmail.com</a>.<span class="invisible md:visible"><br>(And yes, that's my adorable mouse Lily in the top right corner.)</span></p>
    </div>
 </div>
