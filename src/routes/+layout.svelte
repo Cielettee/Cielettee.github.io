@@ -14,12 +14,11 @@
             <div class="flex flex-col text-center items-center justify-evenly h-6/10 text-[#F2613F] gap-8">
                 <a href={base + '/'} class=" rounded-lg"><img src={me} class="p-1 w-[6rem] h-[6rem] rounded-full hover:p-1.5 bg-[#3D0000]"></a>
                 <a href={base + '/aboutme'} class="text-lg font-bold bg-[#3D0000] hover:bg-[#950101] py-4 px-8 rounded-lg">About Me!</a>
-                <a href={base + '/important'} class="text-lg font-bold bg-[#3D0000] hover:bg-[#950101] py-4 px-8 rounded-lg">Important Stuff!</a>
                 <a href={base + '/resume'} class="text-lg font-bold bg-[#3D0000] hover:bg-[#950101] py-4 px-8 rounded-lg">Resume!</a>
             </div>
         </div>
         <!-- Rounded rectangle card -->
-        <div class="w-full h-9/10 mb-8 col-span-7 my-8">
+        <div class="w-full h-9/10 mb-8 col-span-7 my-8 overflow-y-auto">
             <div
                 class="flex flex-col h-full mx-8 p-8 rounded-lg shadow-lg bg-[#3D0000]"
             >

@@ -16,6 +16,7 @@
     <div class="flex flex-col items-center justify-center mt-2 text-[#F2613F]">
         <div>
             <a
+                class="hover:text-[#FF0000]"
                 href="https://github.com/Cielettee"
                 target="_blank"
                 rel="noopener"
@@ -23,6 +24,7 @@
                 <i class="fa-brands fa-github"></i>
             </a>
             <a
+                class="hover:text-[#FF0000]"
                 href="https://www.linkedin.com/in/tessalyn-becker/"
                 target="_blank"
                 rel="noopener"
