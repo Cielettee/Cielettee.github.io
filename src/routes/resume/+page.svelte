@@ -1,7 +1,7 @@
 <script>
    import { base } from '$app/paths'
 </script>
-<div class="hidden md:flex w-full h-full">
+<div class="hidden 2xl:flex w-full h-full">
    <embed src="{base + '/resume.pdf'}" width="100%" height="100%" class='rounded-lg'/>
 </div>
 <div>
