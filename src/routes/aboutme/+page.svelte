@@ -20,7 +20,7 @@
    </div>
    <div>
       <p class="font-mono text-[#F2613F] text-lg">
-         I'm a cyber security analyst, electronics systems engineer, programmer, occasional artist, and mouse lover!</p>
+         I'm a cybersecurity analyst, electronics systems engineer, programmer, occasional artist, and mouse lover!</p>
       <p class="pt-5 font-mono text-[#F2613F] text-lg">
          I was born in Rio de Janeiro and moved to the United States at a young age. I was always a little nerd, playing video games, which inspired me to try making them myself. I created simple game projects, learning programming along the way, and advanced to using Unity for more complex projects. I learned to create my own artwork to bring my game ideas to life, which developed into a keen interest in art, particularly pixel art.</p>
       <p class="pt-5 font-mono text-[#F2613F] text-lg"> 
